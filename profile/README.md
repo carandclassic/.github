@@ -19,4 +19,4 @@ To read more about Car & Classic, please visit <https://carandclassic.com/about-
 
 ### Careers
 
-Find out about open positions on our job board: <https://careers.carandclassic.com/>
+Find out about open positions on our job board: <https://careers.carandclassic.com>
